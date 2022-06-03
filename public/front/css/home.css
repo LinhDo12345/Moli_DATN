@@ -1,0 +1,29 @@
+.item-service {
+
+    margin-bottom: 2vw;
+}
+
+
+span.name-service {
+    color: #4A3600;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: "Playfair Display", serif;
+}
+
+span.price-service {
+    float: right;
+    margin-bottom: 0;
+    font-size: 18px;
+    font-family: "Playfair Display", serif;
+    color: #BC9321;
+}
+
+.icon-service {
+    margin: 0 auto;
+    margin-bottom: 3vw;
+}
+
+ul.list {
+    z-index: 9999999 !important;
+}
